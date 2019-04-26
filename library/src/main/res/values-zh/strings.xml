@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">AgileRecyclerView</string>
-    <string name="agile_label_loading">正在加载...</string>
-    <string name="agile_label_error">上拉重新加载</string>
-    <string name="agile_label_finish">加载完成</string>
-</resources>
