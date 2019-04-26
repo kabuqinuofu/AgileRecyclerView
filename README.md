@@ -4,6 +4,11 @@
 
 ```
 
+### Gradle
+```
+implementation 'com.github.kabuqinuofu:AgileRecyclerView:V1.0.0'
+```
+
 ### XML 使用
 ```
 <com.yc.library.AgileRecyclerView
