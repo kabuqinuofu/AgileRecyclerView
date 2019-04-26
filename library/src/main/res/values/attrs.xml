@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AgileRecyclerView">
+        <!--设置倒数第几个显示 回调加载更多-->
+        <attr name="autoLoadByLastCount" format="integer" />
+        <!--是否开启加载更多-->
+        <attr name="loadMoreEnabled" format="boolean" />
+        <!--加载更多View 完整类名-->
+        <attr name="loadMoreViewName" format="string" />
+    </declare-styleable>
+</resources>
